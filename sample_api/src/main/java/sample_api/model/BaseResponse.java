@@ -1,4 +1,4 @@
-package sample_api.mdel;
+package sample_api.model;
 
 public class BaseResponse {
 	private String requestId;

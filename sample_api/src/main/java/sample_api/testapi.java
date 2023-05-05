@@ -3,7 +3,7 @@ package sample_api;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import sample_api.mdel.BaseResponse;
+import sample_api.model.BaseResponse;
 
 @RestController
 public class testapi {
